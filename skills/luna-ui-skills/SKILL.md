@@ -1,5 +1,5 @@
 ---
-name: luna_ui_skills
+name: luna-ui-skills
 description: "Complete AI agent skill for the Luna UI library (mizchi/luna.mbt) - a fine-grained reactive UI library for MoonBit/JS with Island Architecture. Use when scaffolding, developing, refactoring, or debugging Luna UI projects. Covers VNode system, signals reactivity, SSR/hydration, DOM DSL, routing, CSS utilities, ARIA components, Web Components, and deployment."
 metadata:
   author: thesparq

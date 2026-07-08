@@ -5,12 +5,12 @@ AI agent skill for the [Luna UI library](https://github.com/mizchi/luna.mbt) —
 ## Installation
 
 ```bash
-npx skills add thesparq/luna_ui_skills
+npx skills add thesparq/luna-ui-skills
 ```
 
 ## Skills
 
-### `luna_ui_skills`
+### `luna-ui-skills`
 
 Setting up and managing any Luna UI project using the MoonBit programming language. Covers Island Architecture, VNode system, signals reactivity, SSR/hydration, DOM DSL, routing, CSS utilities, ARIA/APG components, Web Components, and deployment.
 
